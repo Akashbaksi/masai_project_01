@@ -1,1 +1,3 @@
-# masai_project_01
+
+
+This projecct for practicing basic functionalities of git and github!
